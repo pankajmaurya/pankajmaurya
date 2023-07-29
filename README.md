@@ -8,7 +8,8 @@ I am Pankaj Maurya, a software engineer from India. I have worked for some large
 #### Getting in touch
 
 * [pankajmaurya@gmail.com](mailto:pankajmaurya@gmail.com)
-* [@bobbyisgood](https://twitter.com/bobbyisgood)
+
+I rarely tweet as [<img src="https://openapi-generator.tech/img/icons/twitter.svg" height="13" width="13"/> @bobbyisgood](https://twitter.com/bobbyisgood).
 
 🌱 I’m currently learning about LLMs, Functional Programming and Open API based tooling.
 
