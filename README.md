@@ -13,6 +13,8 @@ I rarely tweet as [<img src="https://openapi-generator.tech/img/icons/twitter.sv
 
 🌱 I’m currently learning about LLMs, Functional Programming and Open API based tooling.
 
+Checkout some of my pinned repositories.
+
 <!--
 **pankajmaurya/pankajmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
