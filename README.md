@@ -8,6 +8,7 @@ I am Pankaj Maurya, a software engineer from India. I have worked for some large
 #### Getting in touch
 
 * [pankajmaurya@gmail.com](mailto:pankajmaurya@gmail.com)
+* [@bobbyisgood](https://twitter.com/bobbyisgood)
 
 🌱 I’m currently learning about LLMs, Functional Programming and Open API based tooling.
 
