@@ -11,7 +11,7 @@ I am Pankaj Maurya, a software engineer from India. I have worked for some large
 
 I rarely tweet as [<img src="https://openapi-generator.tech/img/icons/twitter.svg" height="13" width="13"/> @bobbyisgood](https://twitter.com/bobbyisgood).
 
-🌱 I’m currently learning about LLMs (https://karpathy.ai/zero-to-hero.html), Functional Programming (Java 8, some clojure) and Open API based tooling.
+🌱 I'm on a break and exploring trends in technology spanning Large Language Models, functional programming and low code paradigms (currently porting Godspeed to the JVM, also curious about Open API based code generation and automation frameworks)
 
 Checkout some of my pinned repositories.
 
