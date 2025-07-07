@@ -13,7 +13,7 @@ I rarely tweet as [<img src="https://openapi-generator.tech/img/icons/twitter.sv
 
 🌱 I'm on a break and exploring trends in technology spanning Large Language Models, functional programming and low code paradigms (currently porting [the Godspeed application framework](https://www.godspeed.systems) to the JVM, also curious about Open API based code generation and automation frameworks)
 
-⚡ Fun fact: I have played some music in the past. In early years, I was a lot into Rock and Metal. Some old recordings https://soundcloud.com/Pankaj-Maurya-1 . In the last few years I took up Hindustani music to expand my horizons.
+⚡ Fun fact: I have played some music in the past. In early years, I was a lot into Rock and Metal. Some old recordings https://soundcloud.com/Pankaj-Maurya-1 . In the last few years I took up Hindustani music (https://youtu.be/uyHJ__d91Hk) to expand my horizons.
 
 Checkout some of my pinned repositories.
 
