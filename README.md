@@ -3,7 +3,6 @@
 I am Pankaj Maurya, a software engineer from India. I have worked for some large tech organizations building and maintaining platform products like Google Billing 3.0, Google Workspace, Rubrik Cloud Data Protection and Uber's Data Platform. 
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=pankajmaurya&show_icons=true&theme=vue&hide_title=true&count_private=true" />
-<img width="50%" style="margin:20px 0;" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=pankajmaurya" alt="pankajmaurya" />
 
 🌱 I'm on a break and exploring trends in technology spanning Large Language Models, functional programming and low code paradigms (currently porting [the Godspeed application framework](https://www.godspeed.systems) to the JVM, also curious about Open API based code generation and automation frameworks)
 Update: Recently wrapped up a pilot of physiotherapy exercise tracking using computer vision tech. See [linked in post](https://www.linkedin.com/posts/activity-7347950250050953216-TkNz)
