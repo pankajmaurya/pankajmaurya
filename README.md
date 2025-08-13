@@ -17,8 +17,9 @@ Exploring emerging technologies and trends:
 - **AI/ML**: Large Language Models and their applications - I am reading [The LLM Book](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main)
 - **Low-Code Solutions**: Ported [the Godspeed application framework](https://www.godspeed.systems) to the JVM
 - **Accessible Healthcare**: Completed a pilot implementation of physiotherapy exercise tracking using computer vision technology. [See LinkedIn post](https://www.linkedin.com/posts/activity-7347950250050953216-TkNz) for details. Now available as an open source pip package : https://pypi.org/project/physiocore/  
-**Recent Project** I am the editor and host for the podcast [Two Minds, Many Biases](https://youtube.com/playlist?list=PL7eJwmV22aNATEW1qYzmF3BeUIR2Hdqcu&si=uvGT50MbwIIaMkNa). I am exploring various AI tools to assist me in content creation [My content production setup](https://www.youtube.com/watch?v=roMb5ImBz2U).
-**Recent Project** I finished reading the Database internals book by Alex Petrov and felt motivated enough to hack. Check out [TinyDB](https://github.com/pankajmaurya/tinydb). I got back to doing some C coding in 2025 and loved it for a few weeks.   
+- **Recent Project** I am the editor and host for the podcast [Two Minds, Many Biases](https://youtube.com/playlist?list=PL7eJwmV22aNATEW1qYzmF3BeUIR2Hdqcu&si=uvGT50MbwIIaMkNa). I am exploring various AI tools to assist me in content creation [My content production setup](https://www.youtube.com/watch?v=roMb5ImBz2U).
+- **Recent Project** I finished reading the Database internals book by Alex Petrov and felt motivated enough to hack. Check out [TinyDB](https://github.com/pankajmaurya/tinydb). I got back to doing some C coding in 2025 and loved it for a few weeks. Then I switched back to python for an elevated computational thinking. Check out [pythonista 101](https://youtube.com/playlist?list=PL7eJwmV22aNC3bOpKVFeAxls6d2r7dEjQ&si=AMIWE12dXpl0N97t)   
+
   
 ## 🎵 Musical Journey
 Music has been a constant in my life, evolving across different genres and traditions:
