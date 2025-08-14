@@ -14,11 +14,12 @@ I've contributed to critical infrastructure products including:
 ## 🌱 Current Focus
 Exploring emerging technologies and trends:
 
-- **AI/ML**: Large Language Models and their applications - I am reading [The LLM Book](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main)
-- **Low-Code Solutions**: Ported [the Godspeed application framework](https://www.godspeed.systems) to the JVM
+- **AI/ML**: Large Language Models and their applications - I am reading [The LLM Book](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main). Some hacks are https://github.com/pankajmaurya/ai-quizmaster, https://github.com/pankajmaurya/ai-poems-for-kids, https://github.com/pankajmaurya/khatabook-mvp-flasky
+- **Low-Code Solutions**: Ported [the Godspeed application framework](https://www.godspeed.systems) to the JVM. Check out https://github.com/pankajmaurya/todoapp
 - **Accessible Healthcare**: Completed a pilot implementation of physiotherapy exercise tracking using computer vision technology. [See LinkedIn post](https://www.linkedin.com/posts/activity-7347950250050953216-TkNz) for details. Now available as an open source pip package : https://pypi.org/project/physiocore/  
 - **Recent Project** I am the editor and host for the podcast [Two Minds, Many Biases](https://youtube.com/playlist?list=PL7eJwmV22aNATEW1qYzmF3BeUIR2Hdqcu&si=uvGT50MbwIIaMkNa). I am exploring various AI tools to assist me in content creation [My content production setup](https://www.youtube.com/watch?v=roMb5ImBz2U).
-- **Recent Project** I finished reading the Database internals book by Alex Petrov and felt motivated enough to hack. Check out [TinyDB](https://github.com/pankajmaurya/tinydb). I got back to doing some C coding in 2025 and loved it for a few weeks. Then I switched back to python for an elevated computational thinking. Check out [pythonista 101](https://youtube.com/playlist?list=PL7eJwmV22aNC3bOpKVFeAxls6d2r7dEjQ&si=AMIWE12dXpl0N97t)   
+- **Recent Project** I finished reading the Database internals book by Alex Petrov and felt motivated enough to hack. Check out [TinyDB](https://github.com/pankajmaurya/tinydb). I got back to doing some C coding in 2025 and loved it for a few weeks. Then I switched back to python for an elevated computational thinking. Check out [pythonista 101](https://youtube.com/playlist?list=PL7eJwmV22aNC3bOpKVFeAxls6d2r7dEjQ&si=AMIWE12dXpl0N97t) and [Flask by examples](https://github.com/pankajmaurya/flask-by-examples)
+- **Technical Education** I have recorded a few videos on CS topics - check out my [Youtube channel](https://www.youtube.com/@pankajmaurya/playlists). Also a few repositories have been created for the same: https://github.com/pankajmaurya/dsalgo101, https://github.com/pankajmaurya/dsalgo102, https://github.com/pankajmaurya/lowleveldesigncoding, https://github.com/pankajmaurya/leetit, https://github.com/pankajmaurya/gof-design-patterns-java
 
   
 ## 🎵 Musical Journey
